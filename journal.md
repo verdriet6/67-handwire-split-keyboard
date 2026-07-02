@@ -26,6 +26,9 @@ later, i understood how to make a handwire keyboard and i made a document outlin
 
 - https://lookout.hackclub.com/api/media/a5b7e672-b7a1-4741-8d2c-046594273aff/video.mp4
 
+### TIME SPENT
+1 hour 9 minutes
+
 ## Entry 2
 - ID: 15570
 - Author: touh
@@ -56,6 +59,9 @@ and i was done with the 6 case by the end of the recording
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/b22c3718-843a-45bc-b59a-ce159e0c9483/video.mp4
+  
+### TIME SPENT
+2 hours 8 minutes
 
 ## Entry 3
 - ID: 15573
@@ -73,6 +79,9 @@ and, throughout all of the recordings, i have struggled with the upper half
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/4b99d2af-5bd3-4f81-bfd3-4eb0338bb289/video.mp4
+
+  ### TIME SPENT
+1 hour 7 minutes
 
 ## Entry 4
 - ID: 15576
@@ -95,6 +104,9 @@ and then, the switch plate for 6 (both the upper and lower half) and 7
 
 - https://lookout.hackclub.com/api/media/90527fd0-163c-4530-81c6-a3a7d364dc47/video.mp4
 - https://lookout.hackclub.com/api/media/23bf630d-b6a2-4657-951a-1684008ad820/video.mp4
+
+### TIME SPENT
+3 hours 30 minutes
 
 ## Entry 5
 - ID: 15578
@@ -119,6 +131,9 @@ i did get better with the spline tool while making the upper half of 6 but man, 
 - https://lookout.hackclub.com/api/media/d897ca97-0568-4c29-8acc-a7039b0a081a/video.mp4
 - https://lookout.hackclub.com/api/media/5c87108e-4d6d-4910-869e-7d0f66ca3d9e/video.mp4
 - https://lookout.hackclub.com/api/media/914f2d43-c961-43d6-b625-4f118c75d8d2/video.mp4
+
+### TIME SPENT
+3 hours 26 minutes
 
 ## Entry 6
 - ID: 15581
@@ -151,6 +166,9 @@ i need to make the schematic, matrix, zine, firmware and github repo and i'll be
 - https://lookout.hackclub.com/api/media/98dcb6c5-9e68-4e82-a422-74eba0d7875e/video.mp4
 - https://lookout.hackclub.com/api/media/5a9f7f61-479d-4b0a-a9d6-d44d7027d025/video.mp4
 - https://lookout.hackclub.com/api/media/9160f5ed-1824-4e2b-88f3-d39ad18900c1/video.mp4
+  
+### TIME SPENT
+3 hours 57 minutes
 
 ## Entry 7
 - ID: 15767
@@ -174,6 +192,9 @@ i watched a couple of tutorials off screen and then switched to kicad and made t
 - https://lookout.hackclub.com/api/media/327bb273-2214-47a8-a34b-e1fb5c8952d0/video.mp4
 - https://lookout.hackclub.com/api/media/d4b2a01b-86ce-4b81-8796-99cea11066bc/video.mp4
 
+### TIME SPENT
+2 hours 1 minute
+
 ## Entry 8
 - ID: 15800
 - Author: touh
@@ -190,6 +211,9 @@ so, i just finished my zine and i think it looks pretty rad, i'm going to lock t
 
 - https://lookout.hackclub.com/api/media/65d39211-c21e-4f46-b015-a880969fd4f4/video.mp4
 - https://lookout.hackclub.com/api/media/38394f06-7c93-4cca-b52d-943f3250da2b/video.mp4
+
+### TIME SPENT
+1 hour 30 minutes
 
 ## Entry 9
 - ID: 15867
@@ -209,3 +233,9 @@ i added the bill of materials, organized all the folders and uploaded them
 - https://lookout.hackclub.com/api/media/cbdabb70-e9b7-4d54-933f-c567619197a1/video.mp4
 - https://lookout.hackclub.com/api/media/ed95bf78-c438-47d9-8f98-77ef4c3ec640/video.mp4
 - https://lookout.hackclub.com/api/media/3f8889b1-1495-4ae2-810d-453e5d695906/video.mp4
+
+### TIME SPENT
+1 hour 23 minutes
+
+
+### TOTAL TIME SPENT: 20 HOURS 11 MINUTES
