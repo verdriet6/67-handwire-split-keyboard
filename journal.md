@@ -3,6 +3,7 @@
 - Exported at: 2026-06-30T19:38:20Z
 - Project ID: 4650
 - Entries: 9
+- Time Tracked: 20 hours 11 minutes
 
 ## Entry 1
 - ID: 15567
@@ -11,7 +12,7 @@
 
 ### Content
 
-![6 enct.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzU3ODQsInB1ciI6ImJsb2JfaWQifX0=--0729c1a19ec8b32f3180a8700166f08f097ab740/6 enct.png)
+<img width="802" height="648" alt="image" src="https://github.com/user-attachments/assets/f201f909-7500-4303-94c1-77fe05c04052" />
 
 i basically had this idea on a whim, i needed to complete 20 hours more to reach 60 hours and a friend suggested that i made a keyboard, a basic one but then, a regular split handwired keyboard is too boring and i decided that i would make a 67 themed keyboard with 24 keys
 
@@ -36,7 +37,7 @@ later, i understood how to make a handwire keyboard and i made a document outlin
 
 ### Content
 
-![Screenshot 2026-06-20 011850.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNzgsInB1ciI6ImJsb2JfaWQifX0=--bf7f532a15b82fdc7fa7414dce10c40eafba247b/Screenshot 2026-06-20 011850.png)
+<img width="680" height="637" alt="image" src="https://github.com/user-attachments/assets/ecc8b070-26b2-4be2-a11d-7b9cf6641ce6" />
 
 i opened the google doc i made and figured out the exact components i require for my 67 keyboard 
 
@@ -70,7 +71,7 @@ and i was done with the 6 case by the end of the recording
 
 ### Content
 
-![Screenshot 2026-06-19 123306.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxODgsInB1ciI6ImJsb2JfaWQifX0=--716e0385945c2c455a086568c69153642a9547e2/Screenshot 2026-06-19 123306.png)
+<img width="945" height="627" alt="image" src="https://github.com/user-attachments/assets/3179ee30-602f-41c5-875a-e032a2606522" />
 
 i made the bottom plate with cut(s) for the m3 screws for the both upper and lower half of the 6
 
@@ -90,7 +91,7 @@ and, throughout all of the recordings, i have struggled with the upper half
 
 ### Content
 
-![Screenshot 2026-06-19 201101.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOTAsInB1ciI6ImJsb2JfaWQifX0=--c0432643332dc6b2b3332f21f2c5140b3c78c4cc/Screenshot 2026-06-19 201101.png)
+<img width="567" height="600" alt="image" src="https://github.com/user-attachments/assets/dc61d6c1-954c-4c89-9ea6-a9ecceedfdf6" />
 
 in this recording, i made the case for 7 and added the heat inserts and extrusions to hold the same 
 
@@ -115,7 +116,7 @@ and then, the switch plate for 6 (both the upper and lower half) and 7
 
 ### Content
 
-![Screenshot 2026-06-19 174722.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOTMsInB1ciI6ImJsb2JfaWQifX0=--ab2ab3af8f4bf2656cf8ea56b338fb3ca6008862/Screenshot 2026-06-19 174722.png)
+<img width="1212" height="282" alt="image" src="https://github.com/user-attachments/assets/f88f92ea-6784-46a7-841a-006f9b82eb51" />
 
 i downloaded cad models from grabcad to use for my assembly 
 
@@ -142,7 +143,7 @@ i did get better with the spline tool while making the upper half of 6 but man, 
 
 ### Content
 
-![Screenshot 2026-06-20 134447.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcxOTUsInB1ciI6ImJsb2JfaWQifX0=--27c277e089a083548a04d9bbcb1c6781eb8d83e4/Screenshot 2026-06-20 134447.png)
+<img width="892" height="595" alt="image" src="https://github.com/user-attachments/assets/91c3e7c0-c139-4091-bce6-d9e34ee0264a" />
 
 i got ready for the assembly and chose a color scheme (lavender for the win lol)
 
@@ -157,7 +158,7 @@ the recording for writing the journal is pretty long cause i forgot to journal e
 i need to make the schematic, matrix, zine, firmware and github repo and i'll be ready to submit this 
 
 
-![5gwa.PNG](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMDYsInB1ciI6ImJsb2JfaWQifX0=--69b60ba762dd0f742f0295a401ddbabb4d9ff8a0/5gwa.PNG)
+<img width="5100" height="3300" alt="image" src="https://github.com/user-attachments/assets/f249f600-3dcf-4802-b550-bed88a4b7cfe" />
 
 
 ### Recording Links
@@ -177,7 +178,7 @@ i need to make the schematic, matrix, zine, firmware and github repo and i'll be
 
 ### Content
 
-![67_page-0001.jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2MDYsInB1ciI6ImJsb2JfaWQifX0=--a75227676f2eca5a143246b1a4280db801d22fcb/67_page-0001.jpg)
+<img width="3508" height="2481" alt="image" src="https://github.com/user-attachments/assets/1d8a63f9-b737-4986-8513-e723e379c0a1" />
 
 so, i tried to make the wiring diagram with fritzing but i ultimately failed at doing so
 
@@ -202,7 +203,7 @@ i watched a couple of tutorials off screen and then switched to kicad and made t
 
 ### Content
 
-![67-zine.jpg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3MzEsInB1ciI6ImJsb2JfaWQifX0=--d9e8f6180ac94382ca6dafdfb95a68de89648cb9/67-zine.jpg)
+<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/476c55d2-383b-44fe-8273-1777d99ff55a" />
 
 so, i just finished my zine and i think it looks pretty rad, i'm going to lock tf in right now and finish the repo and firmware!
 
@@ -222,7 +223,8 @@ so, i just finished my zine and i think it looks pretty rad, i'm going to lock t
 
 ### Content
 
-![assembled 67.PNG](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3OTgsInB1ciI6ImJsb2JfaWQifX0=--dfe5621c680e2beeebff43b210548f1e11d5e345/assembled 67.PNG)
+<img width="4060" height="3049" alt="image" src="https://github.com/user-attachments/assets/5e037faa-31f7-4034-897f-fbc6d416a688" />
+
 
 i managed to finish the repo and i shall be shipping it!
 
