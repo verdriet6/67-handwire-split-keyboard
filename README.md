@@ -76,6 +76,5 @@ as of 21st june 2026
 
 
 ## zine:
-<img width="1410" height="2000" alt="breadplayer" src="https://github.com/user-attachments/assets/84f26950-d291-44a7-b3c2-93a6f4361fd9"/>
-
+<img width="1410" height="2000" alt="breadplayer" src="https://github.com/user-attachments/assets/65f78287-e2d6-4ea2-a6ff-9704afc86367"/>
 
